@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-Install python. The code is compatible with both Python2 and Python3.
+Need to Install python. The code is compatible with both Python2 and Python3.
 Visit the link https://www.python.org/downloads/ to install Python.
 
 ## Description
